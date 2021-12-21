@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: pretty:1.0.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pretty/pretty/1.0.4/pretty-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

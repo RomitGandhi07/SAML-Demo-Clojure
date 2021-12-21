@@ -11,7 +11,7 @@
                  [expound "0.8.10"]
                  [funcool/struct "1.4.0"]
                  [json-html "0.4.7"]
-                 [kirasystems/saml20-clj "0.1.16"]
+                 [metabase/saml20-clj "2.0.0"]
                  [luminus-migrations "0.7.1"]
                  [luminus-transit "0.1.3"]
                  [luminus-undertow "0.1.14"]

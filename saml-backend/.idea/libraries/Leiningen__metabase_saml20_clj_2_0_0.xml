@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: metabase/saml20-clj:2.0.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/metabase/saml20-clj/2.0.0/saml20-clj-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1 @@
+web: java -Dclojure.main.report=stderr -cp target/uberjar/saml-backend.jar clojure.main -m saml-backend.core
